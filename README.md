@@ -1,5 +1,5 @@
 # 💫 About Me:
- Backend Java Spring BootAngular studant
+ Backend Java Spring Boot Angular studant
 
 
 ## 🌐 Socials:
